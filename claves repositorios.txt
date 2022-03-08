@@ -7,3 +7,7 @@ En github
 correo: correonuevastecnologias2022@gmail.com
 password: 2022nuevastec
 usuario : nuevastecnologias2022
+
+
+correo: proyectofullstack2022@gmail.com
+password: 2022proyecto
