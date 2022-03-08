@@ -1,0 +1,11 @@
+Claves registros:
+
+Juan david:
+USUARIO: davidespectaculos@hotmail.com
+CONTRASEÑA: davidespectaculos2021
+
+Fernando Rios:
+USUARIO: luisfernandoriosceballos@gmail.com
+CONTRASEÑA: dorismorales2021
+
+
