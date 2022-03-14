@@ -1,0 +1,13 @@
+
+Credenciales windows
+proyectofullstack
+cesde2022
+
+
+nuevo repositorio:
+
+2022proyectofullstack@gmail.com
+cesde2022
+
+en caso de fallo:
+git remote rm origin
